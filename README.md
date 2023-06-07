@@ -1,5 +1,5 @@
 # Hasura Project Setup - March 2023
-
+#prova modifica
 This is a step by step guide to running an [Hasura-based project](https://hasura.io) on your development machine. Keep on reading and you will learn how to build a **fully automated environment** that lets you:
 
 - Run [Postgres](https://hub.docker.com/_/postgres) and [Adminer Web Client](https://hub.docker.com/_/adminer)
